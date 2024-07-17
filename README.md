@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently a Fourth Year Computer Science Student
 - 🌱 I’m currently learning Flutter
-- 💬 Ask me about Android Studio, Java, NodeJS, and Web Development
+- 💬 Ask me about Android Studio, Java,  and Web Development
 - 📫 How to reach me: **saja.alkalili@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
