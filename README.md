@@ -1,23 +1,22 @@
-![MasterHead](https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif)
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif" alt="MasterHead" width="400">
+</div>
 <h1 align="center">Hi 👋, I'm Saja Alkhalili</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sajaalkhalili&label=Profile%20views&color=0e75b6&style=flat" alt="sajaalkhalili" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=sajaalkhalili&label=Profile%20views&color=0e75b6&style=flat" alt="sajaalkhalili" /> </p>
+
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/8d/62/1f/8d621f66f551b6a39072473d52280ff0.gif">
-- 🔭 I’m currently a Fourth Year Comp Sci Student
 
+- 🔭 I’m currently a Fourth Year Computer Science Student
 - 🌱 I’m currently learning Flutter
-
-- 💬 Ask me about Android Studio, Java, NodeJS, and Web
-
-- 📫 How to reach me **saja.alkalili@gmail.com**
-
-</p>
+- 💬 Ask me about Android Studio, Java, NodeJS, and Web Development
+- 📫 How to reach me: **saja.alkalili@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+<p align="left">
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
   </a> 
- <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
+  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
   </a> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
@@ -49,8 +48,16 @@
 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sajaalkhalili&show_icons=true&locale=en&layout=compact" alt="sajaalkhalili" /></p>
+<h3 align="left">Most Used Languages:</h3>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sajaalkhalili&show_icons=true&locale=en&layout=compact" alt="sajaalkhalili" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sajaalkhalili&show_icons=true&locale=en" alt="sajaalkhalili" /></p>
+<h3 align="left">GitHub Stats:</h3>
+<p align="left">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sajaalkhalili&show_icons=true&locale=en" alt="sajaalkhalili" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sajaalkhalili&" alt="sajaalkhalili" /></p>
+<p align="left">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sajaalkhalili&" alt="sajaalkhalili" />
+</p>
